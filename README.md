@@ -67,9 +67,32 @@ https://github.com/user-attachments/assets/7e2fe559-58bc-42bf-bd72-6a9fdad71045
  
 ## R-related shortcuts
 
+R-Studios has a lot of great keyboard shortcuts that can save you time while coding. We have compiled a list of some that will be the most usefull for us in WFC 70. You can find a full list of R-related shortcuts by going to R-studios webcite, where they have compiled a couple different master sheets depending on what **program** (is this the correct term?) you're using. 
+
+You can also easily see a list of shortcuts while in R-studios by clicling **Tools > Keyboard Shortcut Help**. Another way to view this is by using a keyboard shotcut yourself! To access this, type **Alt+Shift+K** for windows users or **Option+Shift+K** for macbook users. 
 
 
+### 1) Running your code
+https://github.com/user-attachments/assets/8dd5f53e-f22d-4747-8247-3d18a2a529a5
+
+You are able to use **Ctrl+Enter** (**Command+return** for macbook users) to easily run code in RMarkdown. This shortcut works from anywhere in the code line, so your cursor can be anywhere in the code and the entire command will run. You Don't have to be in the firts line of the command. 
+
+
+### 2) Interting a Code Chunk
 https://github.com/user-attachments/assets/331fd760-12a5-4c5d-8027-b204ed0b209a
+
+By using **Ctrl+Alt+I** (**Command+Option+I** for mackbook users), you can easilty make a new coding chunck in your markdown file. This will become more useful for when you get in to writing your final project. 
+
+### Aditional R-related Shortcuts
+
+-   **Ctrl+Shift+M**: inserts a piping tool
+
+      -  **Command+Shift+M** for macbook users
+
+          -  Note: this piping took is not the same one you will be introduced to in lab. It will look like this %>% insted of this |>. (ask Rob about the diferences) 
+
+
+
 
 
 
