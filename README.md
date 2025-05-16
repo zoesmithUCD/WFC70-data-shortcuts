@@ -7,6 +7,27 @@
 
 ## Computer shortcuts
 
+
+
+https://github.com/user-attachments/assets/5a489ebb-a250-41f1-a0c6-918cfc7b6c04
+
+
+https://github.com/user-attachments/assets/a738fb82-7b81-40b0-abe8-4c4d8c116c75
+
+
+
+https://github.com/user-attachments/assets/925f4f59-ff14-4acc-88e7-d2b50d23a74c
+
+
+
+https://github.com/user-attachments/assets/e6efeeeb-c63e-4173-af58-0b75eb20ed43
+
+
+
+https://github.com/user-attachments/assets/7e2fe559-58bc-42bf-bd72-6a9fdad71045
+
+
+
 ### Additional Computer Shortcuts
 #### (If you want to be fancy) 
 
@@ -45,4 +66,12 @@
     -   Command+Shift+4 for macbooks
  
 ## R-related shortcuts
+
+
+
+https://github.com/user-attachments/assets/331fd760-12a5-4c5d-8027-b204ed0b209a
+
+
+
+
 
